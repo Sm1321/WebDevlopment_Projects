@@ -1,0 +1,38 @@
+
+
+.title{
+    text-align: center; /*To bring the center of the Page*/
+    text-decoration: underline;
+}
+
+
+
+.personal_formname{
+    text-align: center;
+    text-size-adjust: 10px;
+
+}
+
+
+.etc{
+    text-align: right;
+}
+
+
+
+input{
+    margin-top: 10px ;
+}
+
+
+.label{
+    margin-top: 10px;
+}
+
+.sign{
+    text-align: right;
+}
+
+body{
+    background-color: bisque;
+}
