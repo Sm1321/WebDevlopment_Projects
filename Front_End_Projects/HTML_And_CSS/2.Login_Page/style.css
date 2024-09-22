@@ -1,0 +1,71 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing:border-box;
+    font-family: "Montserrat",sans-serif;
+}
+
+
+body{
+    background: #ececec;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+
+.login-form{
+    margin: auto;
+    background-color: bisque;
+    display: flex;
+    height: 400px;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px gray;
+}
+
+.from{
+    width: 80%;
+    margin:auto;
+}
+
+.from h3{
+    margin:15px 0;
+    font-size : 30px;
+}
+
+
+.from input{
+    width: 100%;
+    padding : 13px;
+    font-size:15px;
+    margin-bottom:20px;
+    border-radius:2px;
+    border:2px solid #ececec;
+    outline:none;
+}
+
+
+.from button{
+    width: 100%;
+    padding:15px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+    background-color: rgb(184, 171, 162);
+
+
+}
+
+.from button:hover{
+
+    background-color: aliceblue;
+}
+
+span{
+    color:black
+}
